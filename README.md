@@ -8,7 +8,7 @@
 * [Illustrations](#illustrations)
 
 ## General Info
-The aim of this project was to create an android application to make calls. The apllication has in-build keyboard which can be used to type in the phone numbers. It also has a beautiful and clean UI for better user interface.
+The aim of this project was to create an android application to make calls. The application has in-build keyboard which can be used to type in the phone numbers. It also has a beautiful and clean UI for better user interface.
 
 ## Technologies
 * Android Studio
